@@ -1,0 +1,16 @@
+#navbar{
+    background-color: gold;
+    text-align: center
+    
+}    
+
+
+
+#navbar > li {
+    background-color: white;
+    display:inline-block;
+    padding: 10px;
+    border: 8px dashed blue;
+    color: black;
+    margin: 5px;
+}
